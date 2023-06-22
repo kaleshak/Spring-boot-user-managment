@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Employee</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+        <h1 class="navbar-brand" th:text="'Welcome to Employee Page'"></h1>
+    </div>
+</nav>
+<div class="d-flex flex-column justify-content-center align-items-center" style="height:50vh">
+    <h2>Choose the option to Register</h2>
+    <div class="mt-2">
+        <a href="employee/register_tech"
+           class="btn btn-primary text-decoration-none px-4"
+        >
+            Register for Technical Assessment
+        </a>
+    </div>
+    <div class="mt-2">
+        <a href="employee/register_beh"
+           class="btn btn-primary text-decoration-none px-3"
+        >
+            Register for Behavioural Assessment
+        </a>
+    </div>
+</div>
+
+</body>
+</html>
