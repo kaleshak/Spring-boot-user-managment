@@ -13,7 +13,6 @@ STEPS TO RUN THE APPLICTION:
 ----------------------------
 
 STEP 1: Create Database
-        ---------------
 
         USER-NAME   : root,
         PASSWORD    : root,
@@ -21,7 +20,6 @@ STEP 1: Create Database
 
 
 STEP 2: RUN ALL THE SERVER ONE BY ONE 
-        -----------------------------
 
         1. CONFIG-SERVER,
         2. SERVICE-REGISTRY,
@@ -31,7 +29,6 @@ STEP 2: RUN ALL THE SERVER ONE BY ONE
         6. ADMIN-SERVER.
 
 step 3: HIT THE API IN BROWSER
-        ----------------------
 
         LANDING PAGE  : http://localhost:9191/                          (REGISTRATION)
                       : http://localhost:9191/register                  (REGISTRATION)
