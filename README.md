@@ -1,12 +1,12 @@
 PORT DETAILES OF THE APPLICATION:
 ---------------------------------
 
-LOGIN-SERVER     : http://localhost:8081
-EMPLOYEE-SERVER  : http://localhost:8082
-ADMIN-SERVER     : http://localhost:8083
-API-GATWAY       : http://localhost:9191
-SERVICE-REGISTRY : http://localhost:8761    (EUREKA)
-CONFIG-SERVER    : http://localhost:8888    (GIT)
+LOGIN-SERVER     : http://localhost:8081 ,
+EMPLOYEE-SERVER  : http://localhost:8082 ,
+ADMIN-SERVER     : http://localhost:8083 ,
+API-GATWAY       : http://localhost:9191 ,
+SERVICE-REGISTRY : http://localhost:8761    (EUREKA) ,
+CONFIG-SERVER    : http://localhost:8888    (GIT) ,
 
 
 STEPS TO RUN THE APPLICTION:
